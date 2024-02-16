@@ -12,7 +12,7 @@ public class Calcul extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		try {
-		
+		   
 			
 //			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			Parent root=FXMLLoader.load(getClass().getResource("GUI.fxml"));
